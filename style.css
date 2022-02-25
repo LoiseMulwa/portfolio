@@ -1,13 +1,21 @@
 .row img{
     height: 70vh;
-    width: 60vh;
+    width: 61.5vh;
 }
 
 #one{
-    background-color: crimson;
+    background-color: rgb(243, 134, 156);
     height: 70vh;
     width: 60vh;
 }
 #three{
-    background-color: gray;
+    background-color: rgb(202, 195, 195);
+    height: 35vh;
+    /* width: 20vh; */
+}
+#three h3{
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    margin-top: 50px;
 }
