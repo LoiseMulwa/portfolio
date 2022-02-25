@@ -34,7 +34,7 @@
 * BOOTSRAP-Simplifies use of css.
 
 ## LIVE LINK
-* Click this link to view my website. ********
+* Click this link to view my website. https://loisemulwa.github.io/portfolio/
 
 
 
