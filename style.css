@@ -1,12 +1,12 @@
 .row img{
     height: 70vh;
-    width: 61.5vh;
+    width: 60vh;
 }
 
 #one{
     background-color: rgb(235, 67, 101);
     height: 70vh;
-    width: 60vh;
+    width: 55vh;
 }
 #one h3{
     margin-top: 90px;
@@ -18,7 +18,7 @@
 #three{
     background-color: rgb(202, 195, 195);
     height: 35vh;
-    /* width: 20vh; */
+    width: 80vh;
 }
 #three h3{
     font-weight: bold;
@@ -47,3 +47,87 @@
 #student{
     color: rgb(235, 67, 101);
 }
+.img img{
+    height: 10vh;
+    width: 15vh;
+}
+
+
+.box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+    border: 2px solid rgb(202, 195, 195) ;
+    height: 15vh;
+    padding: 3vh;
+    background-color:rgb(202, 195, 195);
+    width: 200vh;
+    margin-left: 20px;
+   
+  
+   
+}
+.cv{
+    border: 1px solid black;
+    height: 8vh;
+    width: 25vh;
+    background-color: rgb(235, 67, 101);
+}
+.portfolio{
+    border: 1px solid black;
+    height: 8vh;
+    width: 35vh;
+    background-color: rgb(235, 67, 101);
+}
+.projects{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+    
+}
+#palace{
+    height: 50vh;
+    width: 60vh;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+#insu{
+    height: 50vh;
+    width: 60vh;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+#proj{
+    background-image: url(images/music-g538ca3f20_1920.jpg);
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+}
+#proj h4{
+    padding: 20px;
+    text-align: center;
+}
+.num1 p {
+    font-size: larger;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+.num1{
+    color: white;
+
+}
+.num2 p {
+    font-size: larger;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+.num2{
+    color: white;
+}
+
+
+
+
+
+
