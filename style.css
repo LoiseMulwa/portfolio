@@ -150,6 +150,10 @@
 .num2 a{
     color: black;
 }
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
 
 
 
