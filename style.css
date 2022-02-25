@@ -4,9 +4,16 @@
 }
 
 #one{
-    background-color: rgb(243, 134, 156);
+    background-color: rgb(235, 67, 101);
     height: 70vh;
     width: 60vh;
+}
+#one h3{
+    margin-top: 90px;
+    padding: 40px;
+}
+#one p{
+    font-size: 22px;
 }
 #three{
     background-color: rgb(202, 195, 195);
@@ -18,4 +25,13 @@
     text-align: center;
     font-style: italic;
     margin-top: 50px;
+}
+#hobbies{
+    margin-left: 120px;
+}
+#hobbies p strong{
+    color:  rgb(235, 67, 101);
+}
+#hobbies li em{
+    font-size: larger;
 }
