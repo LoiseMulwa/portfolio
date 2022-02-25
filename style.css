@@ -1,4 +1,13 @@
-h1{
-    color: aqua;
-    font-style: italic;
+.row img{
+    height: 70vh;
+    width: 60vh;
+}
+
+#one{
+    background-color: crimson;
+    height: 70vh;
+    width: 60vh;
+}
+#three{
+    background-color: gray;
 }
