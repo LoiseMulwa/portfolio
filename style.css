@@ -151,10 +151,16 @@
     color: black;
 }
 .footer{
-    margin-top: 20px;
     display: flex;
     justify-content: space-around;
+    background-color: rgb(235, 67, 101);
 }
+#rights,#design{
+    margin-top: 50px;
+    font-size: larger;
+
+}
+
 
 
 
