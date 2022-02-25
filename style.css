@@ -35,3 +35,15 @@
 #hobbies li em{
     font-size: larger;
 }
+.section2{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+}
+.section2 p{
+    font-size: 20px;
+}
+#student{
+    color: rgb(235, 67, 101);
+}
